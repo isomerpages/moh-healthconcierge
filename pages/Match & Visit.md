@@ -8,4 +8,4 @@ description: ""
 <input type='button' name='executer' value="Maro">
 <body>
 
-<iframe align="left" src="https://www.checkfirst.gov.sg/c/quiz" style="width:150%;height:700px"></iframe>
+<iframe align="left" src="https://www.checkfirst.gov.sg/c/quiz" style="width:100%;height:700px"></iframe>
