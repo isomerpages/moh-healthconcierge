@@ -1,5 +1,5 @@
-title: Title
-url: ""
+title: HealthConcierge
+url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.d28kmxx02abad9.amplifyapp.com
 prod: https://master.d28kmxx02abad9.amplifyapp.com
 resources_name: register
+shareicon: /images/isomer-logo.svg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
