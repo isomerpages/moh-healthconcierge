@@ -3,4 +3,4 @@ title: Match & Visit
 permalink: /matchnvisit/
 description: ""
 ---
-<iframe src="https://www.checkfirst.gov.sg/c/quiz" style="width:150%;height:700px"></iframe>
+<iframe align="left" src="https://www.checkfirst.gov.sg/c/quiz" style="width:150%;height:700px"></iframe>
