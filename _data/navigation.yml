@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Register of Doctors
-    url: /register-of-doctors/
   - title: Match & Visit
     url: /matchnvisit
+  - title: Register of Doctors
+    url: /register-of-doctors/
+  - title: Contact Us
+    url: /contact-us/
