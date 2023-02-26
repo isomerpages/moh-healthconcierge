@@ -7,9 +7,12 @@ permalink: /example-page/
 | Text     | Text     | Text     |
 
 
+<table>  
+  <tr>  
+    <td><img src="/images/emailIcon.jpg" alt="Email address..." width="5%" height="5%"></td>
+		<td style="text-align: center; vertical-align: middle;"><b>E-Mail</b></td>
+		<td style="text-align: center; vertical-align: middle;"><input type="text" id="txtEmailAddress" size="100" value="example@domain.com" style="color:grey;"></td> 
+  </tr>
+</table>
 
-<img src="/images/emailIcon.jpg" alt="Email address..." width="10%" height="10%">
-
-<input type="text" id = "txtEmailAddress">
-
-<button type="submit" style="background:blue;color:white;">Post it via Postman!</button>
+<input type="submit" value="Post it via Postman!" style="background:blue;color:white;" >
