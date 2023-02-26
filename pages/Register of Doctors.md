@@ -5,4 +5,4 @@ description: ""
 ---
 <b>😉</b><input type="text" id = "txtID">
 
-<button type="button" style="background:blue;color:white;">Click Me!</button>
+<button type="submit" style="background:blue;color:white;">Click Me!</button>
