@@ -7,6 +7,6 @@ permalink: /example-page/
 | Text     | Text     | Text     |
 
 
-<b></b><input type="text" id = "txtID">
+![Email...]()<input type="text" id = "txtID">
 
 <button type="submit" style="background:blue;color:white;">Post it via Postman!</button>
