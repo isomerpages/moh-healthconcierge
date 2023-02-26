@@ -9,8 +9,7 @@ permalink: /example-page/
 
 <table>  
   <tr>  
-    <td><img src="/images/emailIcon.jpg" alt="Email address..." width="5%" height="5%"></td>
-		<td style="text-align: center; vertical-align: middle;"><b>E-Mail</b></td>
+    <td><img src="/images/emailIcon.jpg" alt="Email address..." width="50%" height="50%"></td>
 		<td style="text-align: center; vertical-align: middle;"><input type="text" id="txtEmailAddress" size="100" value="example@domain.com" style="color:grey;"></td> 
   </tr>
 </table>
