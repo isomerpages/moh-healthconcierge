@@ -16,6 +16,6 @@ permalink: /example-page/
 		<td colspan="2"><input type="submit" value="Post it via Postman!" style="background:blueviolet;color:white;width:100%;height:50px;border-radius: 25px;cursor:crosshair;"></td>
 	</tr>
 	<tr>
-		<td colspan="2"><b><a href="/" style="background:blueviolet;color:white;width:100%;height:50px;border-radius: 25px;cursor:crosshair;">Post it via Postman! </a></b></td>
+		<td colspan="2"><b><a href="/" style="background:default;color:blueviolet;font-size:50px;cursor:crosshair;">Post it via Postman!</a></b></td>
 	</tr>
 </table>
