@@ -2,7 +2,7 @@
 layout: homepage
 title: HealthConcierge
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/OGP HealthCare - Logo.png
 permalink: /
 notification: ""
 sections:
