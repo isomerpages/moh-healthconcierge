@@ -1,5 +1,7 @@
 logo: /images/healthcarelogo.png
 links:
+  - title: HOME
+    url: /permalink
   - title: Match & Visit
     url: /matchnvisit
   - title: Register of Doctors
