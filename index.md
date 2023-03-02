@@ -10,11 +10,11 @@ sections:
       title: HealthConcierge
       background: /images/site-banner.png
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Match & Visit
+          description: Find me a Doctor in my Area
           url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Registry of Doctors
+          description: Show me the Doctor Registry
           url: ""
   - infopic:
       title: Find your Doctors here!
