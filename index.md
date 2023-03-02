@@ -13,6 +13,6 @@ sections:
       title: Find your Doctors here!
       subtitle: Registry of Doctors
       button: Read More
-      url: /sd
+      url: /register-of-doctors
       alt: Image alt text
 ---
