@@ -12,10 +12,10 @@ sections:
       key_highlights:
         - title: Match & Visit
           description: Find me a Doctor in my Area
-          url: ""
+          url: /matchnvisit
         - title: Registry of Doctors
           description: Show me the Doctor Registry
-          url: ""
+          url: /register-of-doctors
   - infopic:
       title: Find me a Doctor in my Area
       subtitle: Registry of Doctors
