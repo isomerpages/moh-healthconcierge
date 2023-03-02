@@ -24,6 +24,12 @@ sections:
       alt: Find a doctor
       image: /images/find-a-doctor.jpg
   - infopic:
+      title: Show me the Doctor Registry
+      subtitle: Register of Doctors
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Find us using the QR code
       subtitle: HealthConcierge
       image: /images/qr-healthconcierge.png
