@@ -17,7 +17,7 @@ sections:
           description: Show me the Doctor Registry
           url: ""
   - infopic:
-      title: Find your Doctors here!
+      title: Find me a Doctor in my Area
       subtitle: Registry of Doctors
       button: Read More
       url: /register-of-doctors
