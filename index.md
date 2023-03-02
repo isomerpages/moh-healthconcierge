@@ -9,6 +9,13 @@ sections:
   - hero:
       title: HealthConcierge
       background: /images/site-banner.png
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Find your Doctors here!
       subtitle: Registry of Doctors
