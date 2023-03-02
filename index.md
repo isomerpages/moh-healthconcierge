@@ -15,4 +15,11 @@ sections:
       button: Read More
       url: /register-of-doctors
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/healthcarelogo.png
+      alt: Image alt text
 ---
