@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: HealthConcierge
-      background: /images/banner.png
+      background: /images/site-banner.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle
