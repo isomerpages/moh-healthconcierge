@@ -24,10 +24,8 @@ sections:
       alt: Find a doctor
       image: /images/find-a-doctor.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      image: /images/healthcarelogo.png
+      title: Find us using the QR code
+      subtitle: HealthConcierge
+      image: /images/qr-healthconcierge.png
       alt: Image alt text
 ---
