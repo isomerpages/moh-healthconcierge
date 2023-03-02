@@ -9,10 +9,10 @@ sections:
   - hero:
       title: HealthConcierge
       background: /images/site-banner.png
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Find your Doctors here!
+      subtitle: Registry of Doctors
+      button: Read More
+      url: /sd
+      alt: Image alt text
 ---
