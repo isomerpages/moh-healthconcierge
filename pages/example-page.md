@@ -18,5 +18,6 @@ permalink: /example-page/
 	<tr>
 		<td colspan="2"><b><a href="/" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle; horizontal-align: middle;display:block;width:100%;height:100%;border-radius: 25px;cursor:crosshair;">Post it via Postman!</a></b></td>
 	</tr>
+	
+	<button onclick\="window.location.href='https://w3docs.com';"\> Click Here </button\>
 </table>
-
