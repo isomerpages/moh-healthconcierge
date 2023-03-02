@@ -15,7 +15,6 @@ sections:
       button: Read More
       url: /register-of-doctors
       alt: Image alt text
-      image: /images/find-doc.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
