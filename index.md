@@ -18,7 +18,7 @@ sections:
           url: /register-of-doctors
   - infopic:
       title: Find me a Doctor in my Area
-      subtitle: Registry of Doctors
+      subtitle: Match & Visit
       button: Read More
       url: /register-of-doctors
       alt: Find a doctor
