@@ -29,6 +29,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/doctor-registry.jpg
   - infopic:
       title: Find us using the QR code
       subtitle: HealthConcierge
