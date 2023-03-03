@@ -13,20 +13,16 @@ permalink: /example-page/
 		<td style="text-align: center; vertical-align:middle; horizontal-align: middle;"><input type="text" id="txtEmailAddress" size="50" value="example@domain.com" style="color:grey;width:auto"></td> 
   </tr>
 	<tr>
-		<td colspan="2"><input type="submit" value="Post it via Postman!" style="background:blueviolet;color:white;font-size:20px;width:100%;height:50px;border-radius: 25px;cursor:crosshair;"></td>
+		<td colspan="2"><input type="submit" value="Post it via Postman!" style="background:blueviolet;color:white;font-size:20px;width:100%;height:50px;border-radius: 25px;cursor:hand;"></td>
 	</tr>
 	<tr>
-		
-<td colspan="2"><b><a href="/" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:table-cell;width:auto;height:50px;border-radius: 25px;cursor:crosshair;">Post it via Postman!</a></b></td>
-		
+<td colspan="2"><b><a href="/" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:block;width:auto;height:50px;border-radius: 25px;cursor:hand;">Post it via Postman!</a></b></td>
 	</tr>
+	<tr>
+<td colspan="2"><b><a href="/" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:table-cell;width:500px;height:50px;border-radius: 25px;cursor:hand;">Post it via Postman!</a></b></td>
+		
+	</tr>	
 	
 	<button onclick="a href='https://form.gov.sg/64001c66b016ad0012762e5f'"> Click Here </button\>
 </table>
 
-
-  <div style="background:blueviolet;color:white;display:table-cell;text-align:center;vertical-align:middle;line-height: normal;width:100%;height:50px;">
-      <span >Hello World!</span>
-  </div>
-	
-	
