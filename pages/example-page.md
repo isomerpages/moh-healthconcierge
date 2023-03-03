@@ -16,7 +16,7 @@ permalink: /example-page/
 		<td colspan="2"><input type="submit" value="Post it via Postman!" style="background:blueviolet;color:white;font-size:20px;width:100%;height:50px;border-radius: 25px;cursor:hand;"></td>
 	</tr>
 	<tr>
-<td colspan="2"><b><a href="/" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:block;width:auto;height:50px;border-radius: 25px;cursor:hand;">Post it via Postman!</a></b></td>
+<td colspan="2" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;height:50px;border-radius: 25px;cursor:hand;"><b><a href="/" >Post it via Postman!</a></b></td>
 	</tr>
 	<tr>
 <td colspan="2" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:table-cell;height:50px;border-radius: 25px;cursor:hand;"><b><a href="/">Post it via Postman!</a></b></td>
