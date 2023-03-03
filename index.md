@@ -26,10 +26,10 @@ sections:
   - infopic:
       title: Show me the Doctor Registry
       subtitle: Register of Doctors
-      description: Infopic description
-      button: Button Text
+      button: READ MORE
       alt: Image alt text
       image: /images/doctor-registry.jpg
+      url: /register-of-doctors
   - infopic:
       title: Find us using the QR code
       subtitle: HealthConcierge
