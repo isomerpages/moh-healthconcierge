@@ -13,7 +13,7 @@ permalink: /example-page/
 		<td style="text-align: center; vertical-align:middle; horizontal-align: middle;"><input type="text" id="txtEmailAddress" size="50" value="example@domain.com" style="color:grey;width:auto"></td> 
   </tr>
 	<tr>
-		<td colspan="2"><input type="submit" value="Post it via Postman!" style="background:#744d9f;color:white;font-size:20px;width:100%;height:50px;border-radius: 25px;cursor:hand;"></td>
+		<td colspan="2" style="background:blue;color:white;font-size:20px;width:100%;height:50px;border-radius: 25px;cursor:hand;"><input type="submit" style="background:blue;color:white;border:none" value="Post it via Postman!"></td>
 	</tr>
 	<tr>
 <td colspan="2" style="background:#744d9f;color:white;font-size:20px;text-align:center;width:100%;height:50px;border-radius: 25px;cursor:hand;"><b><a style="color:white;" href="/">Post it via Postman!</a></b></td>
