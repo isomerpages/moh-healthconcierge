@@ -19,10 +19,9 @@ permalink: /example-page/
 <td colspan="2"><b><a href="/" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:block;width:auto;height:50px;border-radius: 25px;cursor:hand;">Post it via Postman!</a></b></td>
 	</tr>
 	<tr>
-<td colspan="2"><b><a href="/" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:table-cell;width:500px;height:50px;border-radius: 25px;cursor:hand;">Post it via Postman!</a></b></td>
+<td colspan="2" style="background:blueviolet;color:white;font-size:20px;text-align:center;vertical-align:middle;display:table-cell;height:50px;border-radius: 25px;cursor:hand;"><b><a href="/">Post it via Postman!</a></b></td>
 		
 	</tr>	
 	
 	<button onclick="a href='https://form.gov.sg/64001c66b016ad0012762e5f'"> Click Here </button\>
 </table>
-
