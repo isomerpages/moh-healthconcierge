@@ -22,7 +22,7 @@ sections:
       button: Read More
       url: /register-of-doctors
       alt: Find a doctor
-      image: /images/favicon-isomer.ico
+      image: /images/find-a-doctor.jpg
   - infopic:
       title: Show me the Doctor Registry
       subtitle: Register of Doctors
