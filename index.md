@@ -28,7 +28,7 @@ sections:
       subtitle: Register of Doctors
       button: READ MORE
       alt: Image alt text
-      image: /images/doctor-registry.jpg
+      image: /images/doctor-registry2.jpg
       url: /register-of-doctors
   - infopic:
       title: Find us using the QR code
