@@ -2,7 +2,7 @@
 title: Example Page
 permalink: /example-page/
 ---
-<div style="min-height:350vh;margin-bottom:20px;">
+<div style="min-height:350vh;margin-bottom:20px;padding-bottom:100px;">
 <div style="position:absolute;left:0px;">	
 <table border="0" cellpadding="0" cellspacing="0" width="800pt" style="border-collapse:collapse;width:800pt;min-height:70%;margin-bottom: 20px;">
 <colgroup><col width="165" style="mso-width-source:userset;mso-width-alt:5748;width:124pt"> <col width="65" style="mso-width-source:userset;mso-width-alt:2257;width:49pt"> <col width="163" style="mso-width-source:userset;mso-width-alt:5701;width:123pt"> <col width="297" style="mso-width-source:userset;mso-width-alt:10379;width:223pt"> <col width="324" style="mso-width-source:userset;mso-width-alt:11310;width:243pt"> <col width="50" style="mso-width-source:userset;mso-width-alt:1745;width:38pt"> <col width="78" style="mso-width-source:userset;mso-width-alt:2722;width:59pt"> <col width="65" style="mso-width-source:userset;mso-width-alt:2257;width:49pt"></colgroup>
