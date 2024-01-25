@@ -1,0 +1,12 @@
+logo: /images/healthcarelogo.png
+links:
+  - title: Home
+    url: /
+  - title: Match & Visit
+    url: /matchnvisit
+  - title: Register of Doctors
+    url: /register-of-doctors/
+  - title: Contact Us
+    url: /contact-us/
+  - title: Feedback
+    url: /suggestions/
